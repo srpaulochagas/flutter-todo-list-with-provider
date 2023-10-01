@@ -20,4 +20,4 @@ Siga estas etapas para executar o aplicativo:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/srpaulochagasp/todo-list-flutter-provider.git
+   git clone https://github.com/srpaulochagas/todo-list-flutter-provider.git
