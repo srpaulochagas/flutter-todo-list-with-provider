@@ -2,8 +2,6 @@
 
 Este é um aplicativo simples de lista de tarefas desenvolvido em Flutter que utiliza o pacote Provider para gerenciamento de estado. O aplicativo permite que os usuários adicionem, editem e removam tarefas da lista.
 
-![Screenshot do Aplicativo](screenshot.png)
-
 ## Funcionalidades
 
 - Adicionar uma nova tarefa à lista.
