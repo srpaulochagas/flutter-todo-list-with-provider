@@ -6,7 +6,6 @@ Este é um aplicativo simples de lista de tarefas desenvolvido em Flutter que ut
 
 - Adicionar uma nova tarefa à lista.
 - Marcar tarefas como concluídas.
-- Editar o nome de uma tarefa.
 - Remover tarefas da lista.
 
 ## Pré-requisitos
@@ -20,4 +19,4 @@ Siga estas etapas para executar o aplicativo:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/srpaulochagas/todo-list-flutter-provider.git
+   git clone https://github.com/srpaulochagas/todo-list-flutter-provider.git 
